@@ -1,4 +1,4 @@
-package wrappers.classes;
+package classes;
 
 public class Caracter {
 

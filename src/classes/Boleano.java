@@ -1,4 +1,4 @@
-package wrappers.classes;
+package classes;
 
 public class Boleano {
 
@@ -21,7 +21,6 @@ public class Boleano {
 
         //converte para String
         String inteiro = bo.toString();
-
     }
 
 

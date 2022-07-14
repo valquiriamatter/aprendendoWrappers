@@ -1,4 +1,4 @@
-package wrappers.classes;
+package classes;
 
 public class Inteiros {
 
@@ -54,10 +54,4 @@ public class Inteiros {
 
 
     }
-
-
-
-
-
-
 }
